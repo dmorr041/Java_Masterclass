@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2fbbbe3-e565-4672-825a-c0c550cd5b85" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xa2kEsb2JQ0pbOfdizCJ8ugQ4G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.Main" />
+      <module name="Classes" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2fbbbe3-e565-4672-825a-c0c550cd5b85" name="Default Changelist" comment="" />
+      <created>1581270025816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581270025816</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3910" y="-862" key="#com.intellij.ide.util.MemberChooser" timestamp="1581279865392">
+      <screen x="3137" y="-1057" width="1920" height="1009" />
+    </state>
+    <state x="3910" y="-862" key="#com.intellij.ide.util.MemberChooser/3137.-1057.1920.1009/1217.-1057.1920.1057/0.23.1680.1027@3137.-1057.1920.1009" timestamp="1581279865392" />
+    <state width="1878" height="274" key="GridCell.Tab.0.bottom" timestamp="1581280110528">
+      <screen x="3137" y="-1057" width="1920" height="1009" />
+    </state>
+    <state width="1878" height="274" key="GridCell.Tab.0.bottom/3137.-1057.1920.1009/1217.-1057.1920.1057/0.23.1680.1027@3137.-1057.1920.1009" timestamp="1581280110528" />
+    <state width="1878" height="274" key="GridCell.Tab.0.center" timestamp="1581280110527">
+      <screen x="3137" y="-1057" width="1920" height="1009" />
+    </state>
+    <state width="1878" height="274" key="GridCell.Tab.0.center/3137.-1057.1920.1009/1217.-1057.1920.1057/0.23.1680.1027@3137.-1057.1920.1009" timestamp="1581280110527" />
+    <state width="1878" height="274" key="GridCell.Tab.0.left" timestamp="1581280110527">
+      <screen x="3137" y="-1057" width="1920" height="1009" />
+    </state>
+    <state width="1878" height="274" key="GridCell.Tab.0.left/3137.-1057.1920.1009/1217.-1057.1920.1057/0.23.1680.1027@3137.-1057.1920.1009" timestamp="1581280110527" />
+    <state width="1878" height="274" key="GridCell.Tab.0.right" timestamp="1581280110528">
+      <screen x="3137" y="-1057" width="1920" height="1009" />
+    </state>
+    <state width="1878" height="274" key="GridCell.Tab.0.right/3137.-1057.1920.1009/1217.-1057.1920.1057/0.23.1680.1027@3137.-1057.1920.1009" timestamp="1581280110528" />
+    <state x="3484" y="-779" key="SettingsEditor" timestamp="1581273657726">
+      <screen x="3137" y="-1057" width="1920" height="1009" />
+    </state>
+    <state x="3484" y="-779" key="SettingsEditor/3137.-1057.1920.1009/1217.-1057.1920.1057/0.23.1680.1027@3137.-1057.1920.1009" timestamp="1581273657726" />
+  </component>
+</project>
