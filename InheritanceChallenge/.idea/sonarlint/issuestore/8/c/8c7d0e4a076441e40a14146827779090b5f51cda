@@ -1,0 +1,15 @@
+
+O
+java:S1172"2Remove this unused method parameter "currentGear".(İÂğ‹8öÊ‘Ÿ¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¦¬‡‰8øáŸ¢.
+]	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(İÂğ‹8¯±€Ÿ¢.
+I
+java:S1068",Remove this unused "numGears" private field.(Ú±8Ãºÿ¢.
+O
+java:S1068"-Remove this unused "numWheels" private field.(ôşªÖùÿÿÿÿ8Ãºÿ¢.
+N
+java:S1068",Remove this unused "isManual" private field.(‘Ü¨¥úÿÿÿÿ8Ãºÿ¢.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µÏÀÔ8Ùş”Ÿ¢.
+I
+java:S1068",Remove this unused "numDoors" private field.(—É¡Í8Ãºÿ¢.
+X	java:S125"<This block of commented-out lines of code should be removed.(Â–¾Ò8ûÎ¢Ÿ¢.

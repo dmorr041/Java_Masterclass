@@ -1,4 +1,5 @@
 package academy.learnprogramming;
+import java.nio.file.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -7,5 +8,7 @@ public class Main {
 	    dog.eat();
 	    dog.run();
 	    dog.walk();
+
+
     }
 }

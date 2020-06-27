@@ -1,0 +1,14 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œ†úıÿÿÿÿ8Ş£Áî£.
+T	java:S106	"9Replace this use of System.out or System.err by a logger.(‘à‡8«Ö·î£.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(í–—üÿÿÿÿ8ÍæÉî£.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÓìêŒ8ğãÖî£.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¬æ8Ÿü¼î£.
+j
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(í–—üÿÿÿÿ8·ÍÊî£.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å†éşÿÿÿÿ8»—Çî£.
+j
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(„¨¼´üÿÿÿÿ8«Ö·î£.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(±¤ª¹8şÊ´î£.
+=
+java:S2639" Correct this regular expression.(¬æ8Ÿ½î£.
